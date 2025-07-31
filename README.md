@@ -119,6 +119,6 @@ Your privacy is our priority. We believe in transparency and have designed this 
 
 ---
 
-**© 2025 Sanju. All rights reserved.**
+**© 2024 Saketh Dasavathini. All rights reserved.**
 
 *This privacy policy is effective as of 2024 and applies to Rummy Score Tracker version 1.0.0 and later.* 
